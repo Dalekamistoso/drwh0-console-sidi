@@ -1,0 +1,18 @@
+# files inherited from the guest core:
+intv.qip
+mist/intv_mist.sv
+
+# VHDL definitions for the core, including
+# a component declaration for the guest core
+demistify_config_pkg.vhd
+
+# Firmware with customisations
+firmware/controller_rom1.rom
+firmware/controller_rom2.rom
+
+# The controller module
+DeMiSTify/controller/controller.qip
+
+# Pre-flow script
+rtl/build_id_verilog.tcl
+
