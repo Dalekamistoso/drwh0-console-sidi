@@ -1,0 +1,1 @@
+Current version of the core 231031 works but ball goes too fast (VGA Tested)
