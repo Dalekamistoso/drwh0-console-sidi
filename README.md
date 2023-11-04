@@ -9,4 +9,5 @@ Original MiSTer/MiST Cores:
 * https://github.com/mist-devel/
 
 Common MiST components:
-https://github.com/mist-devel/mist-modules
+
+* https://github.com/mist-devel/mist-modules
